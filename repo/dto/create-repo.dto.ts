@@ -1,1 +1,3 @@
-export class CreateRepoDto {}
+export class CreateRepoDto {
+    name: string
+}
