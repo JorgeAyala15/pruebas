@@ -1,3 +1,3 @@
 export class CreateRepoDto {
-    n:string
+    name: string
 }
